@@ -6,8 +6,8 @@ url: https://SkywalkerLiu.github.io
 date_format: "ordinal"
 title: Skywalker's personal blog
 subtitle: "你好，美丽的世界"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+description: "刘怀宇的个人博客"
+keywords: Skywalker, Huaiyu Liu, mzlogin, mazhuang, 闷骚的程序员
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
@@ -57,12 +57,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: 
+author: Skywalker
+organization: SGCC
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: SkywalkerLiu
+location: Chongqing, China
+email: hy_liu@zju.edu.cn
 
 # ---------------- #
 #    Navigation    #
